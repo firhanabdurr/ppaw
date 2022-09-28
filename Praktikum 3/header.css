@@ -1,0 +1,20 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header{
+    background-color: maroon;
+    color: #fff;
+    height: 90px;
+}
+
+.header-logo{
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+}
+
+.header-nav li{
+    float: left;
+    list-style: none;
+    padding: 30px 30px;
+}
